@@ -1,0 +1,38 @@
+
+Assignment - 1 Questions (Console Application)
+------------------------------------------------------------------------------------------
+
+1.Understanding Console Methods:
+
+   - What is the difference between `Console.WriteLine()` and `Console.Write()`? Provide examples.
+   - Modify the program to display a multi-line welcome message using multiple `Console.WriteLine()` calls.
+
+2.User Input and String Interpolation:
+
+   - Prompt the user to input their age and favorite color. Display the inputs back using string interpolation.
+   - Extend the program to ask for the user's name, age, and profession, then display a personalized message such as:\
+     `"Hello, John! You are 25 years old and work as a Software Engineer."`
+
+3.Formatted Output:
+
+   - Write a program to calculate and display a table of square and cube values for integers from 1 to 10 using formatted output (Padding the values by 0's for 6 digits) Ex: square of 2 is 4 the o/p should be: 000004.
+
+4.Input Validation:
+
+   Extend the program to validate user input. For example, if the user enters a non-numeric value for age, display an error message and prompt again.
+
+5.Conditional Logic:
+
+   - Write a program that asks the user to guess a number between 1 and 10. If the guess is correct, display "Correct!" Otherwise, display "Try Again."
+
+6.Menu System:
+
+   - Create a basic menu-driven console application with options like:
+     1. Accept user details and Display the same with welcome message
+     2. Ask user to enter his/her age and print if they are Teenager(<18) or adult (>18)
+     3. Exit Application
+   - Allow the user to choose options by entering a number.
+
+7.Interactive Calculator:
+
+   - Create a basic calculator program that supports addition, subtraction, multiplication, and division. Prompt the user for two numbers and the desired operation. 
