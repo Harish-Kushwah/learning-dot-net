@@ -1,0 +1,16 @@
+D:\dotnet\T-Shirt Ordering Calculator\obj\Debug\net8.0-windows\T_Shirt_Ordering_Calculator.Form1.resources
+D:\dotnet\T-Shirt Ordering Calculator\obj\Debug\net8.0-windows\T-Shirt Ordering Calculator.csproj.GenerateResource.cache
+D:\dotnet\T-Shirt Ordering Calculator\obj\Debug\net8.0-windows\T-Shirt Ordering Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\T-Shirt Ordering Calculator\obj\Debug\net8.0-windows\T-Shirt Ordering Calculator.AssemblyInfoInputs.cache
+D:\dotnet\T-Shirt Ordering Calculator\obj\Debug\net8.0-windows\T-Shirt Ordering Calculator.AssemblyInfo.cs
+D:\dotnet\T-Shirt Ordering Calculator\obj\Debug\net8.0-windows\T-Shirt Ordering Calculator.csproj.CoreCompileInputs.cache
+D:\dotnet\T-Shirt Ordering Calculator\bin\Debug\net8.0-windows\T-Shirt Ordering Calculator.exe
+D:\dotnet\T-Shirt Ordering Calculator\bin\Debug\net8.0-windows\T-Shirt Ordering Calculator.deps.json
+D:\dotnet\T-Shirt Ordering Calculator\bin\Debug\net8.0-windows\T-Shirt Ordering Calculator.runtimeconfig.json
+D:\dotnet\T-Shirt Ordering Calculator\bin\Debug\net8.0-windows\T-Shirt Ordering Calculator.dll
+D:\dotnet\T-Shirt Ordering Calculator\bin\Debug\net8.0-windows\T-Shirt Ordering Calculator.pdb
+D:\dotnet\T-Shirt Ordering Calculator\obj\Debug\net8.0-windows\T-Shirt Ordering Calculator.dll
+D:\dotnet\T-Shirt Ordering Calculator\obj\Debug\net8.0-windows\refint\T-Shirt Ordering Calculator.dll
+D:\dotnet\T-Shirt Ordering Calculator\obj\Debug\net8.0-windows\T-Shirt Ordering Calculator.pdb
+D:\dotnet\T-Shirt Ordering Calculator\obj\Debug\net8.0-windows\T-Shirt Ordering Calculator.genruntimeconfig.cache
+D:\dotnet\T-Shirt Ordering Calculator\obj\Debug\net8.0-windows\ref\T-Shirt Ordering Calculator.dll

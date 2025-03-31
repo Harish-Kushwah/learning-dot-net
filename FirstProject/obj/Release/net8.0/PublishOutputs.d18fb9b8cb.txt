@@ -1,0 +1,5 @@
+C:\Users\haris\Desktop\FirstProject.exe
+C:\Users\haris\Desktop\FirstProject.dll
+C:\Users\haris\Desktop\FirstProject.deps.json
+C:\Users\haris\Desktop\FirstProject.runtimeconfig.json
+C:\Users\haris\Desktop\FirstProject.pdb

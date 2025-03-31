@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Railway_Reservation_Form/1.0.0": {
+        "runtime": {
+          "Railway_Reservation_Form.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Railway_Reservation_Form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
