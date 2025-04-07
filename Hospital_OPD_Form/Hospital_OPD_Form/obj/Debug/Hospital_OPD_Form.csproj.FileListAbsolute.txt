@@ -1,0 +1,9 @@
+D:\dotnet\.Net\Hospital_OPD_Form\Hospital_OPD_Form\bin\Debug\Hospital_OPD_Form.exe.config
+D:\dotnet\.Net\Hospital_OPD_Form\Hospital_OPD_Form\bin\Debug\Hospital_OPD_Form.exe
+D:\dotnet\.Net\Hospital_OPD_Form\Hospital_OPD_Form\bin\Debug\Hospital_OPD_Form.pdb
+D:\dotnet\.Net\Hospital_OPD_Form\Hospital_OPD_Form\obj\Debug\Hospital_OPD_Form.csproj.AssemblyReference.cache
+D:\dotnet\.Net\Hospital_OPD_Form\Hospital_OPD_Form\obj\Debug\Hospital_OPD_Form.Properties.Resources.resources
+D:\dotnet\.Net\Hospital_OPD_Form\Hospital_OPD_Form\obj\Debug\Hospital_OPD_Form.csproj.GenerateResource.cache
+D:\dotnet\.Net\Hospital_OPD_Form\Hospital_OPD_Form\obj\Debug\Hospital_OPD_Form.csproj.CoreCompileInputs.cache
+D:\dotnet\.Net\Hospital_OPD_Form\Hospital_OPD_Form\obj\Debug\Hospital_OPD_Form.exe
+D:\dotnet\.Net\Hospital_OPD_Form\Hospital_OPD_Form\obj\Debug\Hospital_OPD_Form.pdb

@@ -32,16 +32,17 @@ app.MapControllerRoute(
 app.MapControllerRoute(
     name: "subjects",
     pattern: "{controller=Subjects}/{action=Index}/{id?}");
-//app.MapControllerRoute(
-//    name: "login",
-//    pattern: "{controller=Login}/{action=Login}");
 
-//app.MapControllerRoute(
-//    name: "about",
-//    pattern: "{controller=About}/{action=About}");
+app.MapControllerRoute(
+    name: "login",
+    pattern: "{controller=Login}/{action=Login}");
 
-//app.MapControllerRoute(
-//    name: "tech-skills",
-//    pattern: "{controller=TechSkills}/{action=TechSkills}");
+app.MapControllerRoute(
+    name: "about",
+    pattern: "{controller=About}/{action=About}");
+
+app.MapControllerRoute(
+    name: "tech-skills",
+    pattern: "{controller=TechSkills}/{action=TechSkills}");
 
 app.Run();
